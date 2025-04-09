@@ -26,9 +26,10 @@
     <td>@item.Title</td> 
     <td>@item.Description</td>
     <td>
-        
-        <a href="#" class="btn btn-outline-primary">Delete</a>
-        <a href="#" class="btn btn-outline-dark">Update</a>
+
+                <a href="/Testimonial/DeleteTestimonial/@item.TestimonialID" class="btn btn-outline-dark">Delete</a>
+                <a href="/Testimonial/UpdateTestimonial/@item.TestimonialID" class="btn btn-outline-primary">Update</a>
+      
         
     </td>
 
@@ -36,4 +37,4 @@
 }
    
 </table>
-<a href="#" class="btn btn-outline-info">Add</a>
+<a href="/Testimonial/CreateTestimonial" class="btn btn-outline-info">Add</a>

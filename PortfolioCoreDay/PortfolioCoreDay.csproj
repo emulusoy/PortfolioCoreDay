@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\my_1_1\.DS_Store" />
+    <None Include="wwwroot\my_1_1\css\.DS_Store" />
+    <None Include="wwwroot\my_1_1\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\my_1_1\css\bootstrap\mixins\.DS_Store" />
+    <None Include="wwwroot\my_1_1\fonts\.DS_Store" />
+    <None Include="wwwroot\my_1_1\images\.DS_Store" />
+    <None Include="wwwroot\my_1_1\js\.DS_Store" />
+    <None Include="wwwroot\my_1_1\scss\.DS_Store" />
+    <None Include="wwwroot\my_1_1\scss\bootstrap\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.15">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.15">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+</Project>

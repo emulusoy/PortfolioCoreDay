@@ -1,8 +1,39 @@
-﻿
+﻿@model List<PortfolioCoreDay.Entities.Testimonial>
 @{
     ViewData["Title"] = "TestimonialList";
     Layout = "~/Views/AdminLayout/Index.cshtml";
 }
 
-<h1>TestimonialList</h1>
+<h1>Testimonial  List  Page</h1>
 
+
+<table class="table table-bordered"> 
+
+<tr> 
+    <td>############</td>
+    <td>Name and Surname</td>
+    <td>Title</td>
+    <td>Description</td>
+
+</tr> 
+
+@foreach (var item in Model) 
+{ 
+<tr>
+
+    <td>@item.TestimonialID</td>
+    <td>@item.NameSurname</td>
+    <td>@item.Title</td> 
+    <td>@item.Description</td>
+    <td>
+        
+        <a href="#" class="btn btn-outline-primary">Delete</a>
+        <a href="#" class="btn btn-outline-dark">Update</a>
+        
+    </td>
+
+ </tr>
+}
+   
+</table>
+<a href="#" class="btn btn-outline-info">Add</a>

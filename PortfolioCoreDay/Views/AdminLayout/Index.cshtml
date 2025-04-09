@@ -5,15 +5,15 @@
 
 <!doctype html>
 <html lang="en">
-@Html.Partial("PartialHead")
+@Html.Partial("~/Views/Adminlayout/PartialHead.cshtml")
 <body>
  
     <div class="wrapper d-flex align-items-stretch">
         <nav id="sidebar">
             
-            @Html.Partial("PartialSidebarTopMenu")
+            @Html.Partial("~/Views/Adminlayout/PartialSidebarTopMenu.cshtml")
 
-            @Html.Partial("PartialSidebar")
+            @Html.Partial("~/Views/Adminlayout/PartialSidebar.cshtml")
 
            
 
@@ -26,6 +26,6 @@
         </div>
     </div>
 
-    @Html.Partial("PartialScript")
+    @Html.Partial("~/Views/Adminlayout/PartialScript.cshtml")
 </body>
 </html>

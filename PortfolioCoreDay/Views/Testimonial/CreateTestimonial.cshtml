@@ -1,0 +1,24 @@
+﻿@model PortfolioCoreDay.Entities.Testimonial
+@{
+    ViewData["Title"] = "CreateTestimonial";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Create Testimonial Page</h1>
+
+<form method="post"> 
+        <label>Name and Surname</label> 
+        <input type="text" asp-for="NameSurname" class="form-control" /> 
+        <br /> 
+        <label>Status! Title</label> 
+        <input type="text" asp-for="Title" class="form-control" /> 
+        <br /> 
+        <label>Image URL</label> 
+        <input type="text" asp-for="ImageUrl" class="form-control" /> 
+        <br /> 
+        <label>Description</Label>
+        <textarea class="form-control" asp-for="Description" rows="3"></textarea>
+
+        <br /> 
+        <button class="btn btn-dark">Save</button> 
+</form>

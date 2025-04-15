@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\skill\\skilllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\skill\\skilllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SkillList.cshtml",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Skill\\SkillList.cshtml",
-              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Skill\\SkillList.cshtml",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Skill\\SkillList.cshtml",
-              "RelativeToolTip": "PortfolioCoreDay\\Views\\Skill\\SkillList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T21:02:26.005Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Program.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Program.cs",
+              "RelativeToolTip": "PortfolioCoreDay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:48:54.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SkillController.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\SkillController.cs",
-              "RelativeDocumentMoniker": "PortfolioCoreDay\\Controllers\\SkillController.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\SkillController.cs",
-              "RelativeToolTip": "PortfolioCoreDay\\Controllers\\SkillController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Statistic\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T12:45:38.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "PortfolioCoreDay\\Controllers\\StatisticController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T21:01:39.917Z",
+              "WhenOpened": "2025-04-15T12:35:50.917Z",
               "EditorCaption": ""
             }
           ]

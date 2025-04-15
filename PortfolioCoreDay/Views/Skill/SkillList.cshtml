@@ -1,4 +1,4 @@
-﻿@model List<PortfolioCoreDay.Entities.Skill>
+﻿@model List<Skill>
 
 
 @{
@@ -15,6 +15,7 @@
         <td>############</td>
         <td>Name</td>
         <td>Value</td>
+        <td>Edit</td>
 
     </tr>
 
@@ -26,12 +27,12 @@
             <td>@item.SkillValue</td>
             
             <td>
-                <a href="/Skill/DeleteTestimonial/@item.SkillID" class="btn btn-outline-dark">Delete</a>
-                <a href="/Skill/UpdateTestimonial/@item.SkillID" class="btn btn-outline-primary">Update</a>
+                <a href="/Skill/DeleteSkill/@item.SkillID" class="btn btn-outline-dark">Delete</a>
+                <a href="/Skill/UpdateSkill/@item.SkillID" class="btn btn-outline-primary">Update</a>
             </td>
 
         </tr>
     }
 
 </table>
-<a href="/Skill/CreateTestimonial" class="btn btn-outline-info">Add</a>
+<a href="/Skill/CreateSkill" class="btn btn-outline-info">Add Skill</a>

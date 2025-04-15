@@ -1,0 +1,19 @@
+﻿@model Skill
+
+@{
+    ViewData["Title"] = "UpdateSkill";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Update Skill Page</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="SkillID"/>
+    <label>Skill Name</label>
+    <input type="text" asp-for="SkillName" class="form-control" style="border:dotted 1px" />
+    <br />
+    <label>Skill Value</label>
+    <input type="text" asp-for="SkillValue" class="form-control" style="border:dotted 1px" />
+    <br />
+    <button class="btn btn-dark">Save</button>
+</form>

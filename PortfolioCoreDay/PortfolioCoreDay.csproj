@@ -16,6 +16,8 @@
     <None Include="wwwroot\my_1_1\js\.DS_Store" />
     <None Include="wwwroot\my_1_1\scss\.DS_Store" />
     <None Include="wwwroot\my_1_1\scss\bootstrap\.DS_Store" />
+    <None Include="wwwroot\port\.DS_Store" />
+    <None Include="wwwroot\port\assets\.DS_Store" />
   </ItemGroup>
 
   <ItemGroup>

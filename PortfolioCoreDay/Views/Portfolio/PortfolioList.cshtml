@@ -1,0 +1,66 @@
+﻿@model List<Portfolio>
+@{
+    ViewData["Title"] = "PortfolioList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Portfolio List Page</h1>
+
+<table class="table table-bordered">
+
+    <tr>
+
+        <th>#####</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Category</th>
+        <th>Edit</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.PortfolioId</th>
+            <th>@item.Title</th>
+            <th>@item.Description</th>
+            <th>@item.Category.CategoryName</th>
+            <th>
+                <a href="/Portfolio/DeletePortfolio/@item.PortfolioId" class="btn btn-outline-danger">Delete</a>
+                <a href="/Portfolio/UpdatePortfolio/@item.PortfolioId" class="btn btn-outline-dark">Update</a>
+
+            </th>
+        </tr>
+    }
+
+</table>
+<a href="/Portfolio/CreatePortfolio/" class="btn btn-outline-dark">Add New</a>
+
+
+
+---------------ui----------------
+
+1-My job tablosu eklenecek veritabanindan cekilecek bu tablo entites.
+2-About bolumu veritabanina eklenecek ve dinamik olarak eklenecek
+3-4 statistik dinamik olarak gelecek 
+    _.yetenek sayisi
+    _.proje sayisi
+    _.Gelen mesaj sayisi
+    _.random sinifi 10 ile 30 sayisi arasinda rastgele sayi
+4-Skills veritabanindan dinamik cekilecek
+5-Deneyimler dinamik olacak. Sumary bolumu kaldirilacak
+6-Education bolumu dinamik olarak cekilecek
+7-Project kisminda categoriler dinamik olarak gelecek o kategoriye ait projeler tumune tiklaninca tumu!
+8-Services bolumu veritabanindan cekilecek 8 tane hizmet alacak ve sadece 6 hizmet gozukecek!
+9-Referances duzenlenecek
+10-Contact tablosu ekle soldaki harita eklensin harita dinamik gelecek! google earthtan alabilirsin!
+11-Message tablosu ekle dinamik olarak calistir! mesaj gondermeyi
+12-Sweetalert sitesinden mesaj gelince alet mesaji versin!
+13-sosyal medya tablosu ekle link title icon url olacak solda listelenecek!
+
+--------------admin---------------
+14-Admin panelinde butun islemler dinamik olarak calisacak
+15-404 error ekle yanlis adrese gittiginde!
+16-card title seklinde projelerin gozukmesi!
+17-6 tane daha istatistik ekle
+
+
+

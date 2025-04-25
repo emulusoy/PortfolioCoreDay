@@ -15,7 +15,8 @@
                 <li data-filter="*" class="filter-active">All</li>
                 @foreach (var item in Model)
                 {
-                    <li data-filter=".filter-app">@item.CategoryName</li>
+                    var menuDynamic = item.CategoryName.ToLower().Replace(" ", "");
+                    <li data-filter=".@menuDynamic">@item.CategoryName</li>
                 }
                 
             </ul><!-- End Portfolio Filters -->

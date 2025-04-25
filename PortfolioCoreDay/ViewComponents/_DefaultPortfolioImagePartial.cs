@@ -1,16 +1,20 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PortfolioCoreDay.Context;
+using Microsoft.EntityFrameworkCore;
+using PortfolioCoreDay.Context; // Include kullanabilmek için
 
 namespace PortfolioCoreDay.ViewComponents
 {
-    public class _DefaultPortfolioImagePartial:ViewComponent
+    public class _DefaultPortfolioImagePartial : ViewComponent
     {
         PortfolioContext context=new PortfolioContext();
 
         public IViewComponentResult Invoke()
         {
-            var values=context.Portfolios.ToList();
-            return View(values);    
+            // Category ile birlikte Portfolyoları getiriyoruz
+            var values = context.Portfolios.Include(x => x.Category).ToList();
+
+            return View(values);
         }
     }
 }
+

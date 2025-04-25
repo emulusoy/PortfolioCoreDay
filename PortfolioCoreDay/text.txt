@@ -12,13 +12,19 @@
 4-Skills veritabanindan dinamik cekilecek                            OK
 5-Deneyimler dinamik olacak. Sumary bolumu kaldirilacak              OK
 6-Education bolumu dinamik olarak cekilecek                          OK
+7-Project kisminda categoriler dinamik olarak gelecek o kategoriye
+ait projeler tumune tiklaninca tumu!                                 OK
 
-7-Project kisminda categoriler dinamik olarak gelecek o kategoriye ait projeler tumune tiklaninca tumu!
-8-Services bolumu veritabanindan cekilecek 8 tane hizmet alacak ve sadece 6 hizmet gozukecek!
-9-Referances duzenlenecek
-10-Contact tablosu ekle soldaki harita eklensin harita dinamik gelecek! google earthtan alabilirsin!
+8-Services bolumu veritabanindan cekilecek 8 tane hizmet alacak     
+ve sadece 6 hizmet gozukecek!                                        OK
+
+9-Referances duzenlenecek                                            OK
+10-Contact tablosu ekle soldaki harita eklensin harita dinamik
+    gelecek! google earthtan alabilirsin!                            OK
+
 11-Message tablosu ekle dinamik olarak calistir! mesaj gondermeyi
 12-Sweetalert sitesinden mesaj gelince alet mesaji versin!
+
 13-sosyal medya tablosu ekle link title icon url olacak solda listelenecek!
 
 --------------admin---------------

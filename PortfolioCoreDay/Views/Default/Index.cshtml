@@ -1,4 +1,5 @@
-﻿@{
+﻿@model Message
+@{
     Layout = null;
 }
 
@@ -63,7 +64,38 @@
                 <div class="row gy-4">
                     @await Component.InvokeAsync("_DefaultContactPartial")
                     
-                    @await Component.InvokeAsync("_DefaultMessagePartial")
+                    @* @await Component.InvokeAsync("_DefaultMessagePartial") *@
+               <div class="col-lg-7">
+     <form asp-controller="Message" asp-action="SendMessage" method="post" @* class="php-email-form" *@>
+        <div class="row gy-4">
+
+            <div class="col-md-6">
+                <label>Your Name</label>
+                <input type="text" name="NameSurname" class="form-control" required />
+            </div>
+
+            <div class="col-md-6">
+                <label>Your Email</label>
+                <input type="email" name="Email" class="form-control" required />
+            </div>
+
+            <div class="col-md-12">
+                <label>Subject</label>
+                <input type="text" name="Subject" class="form-control" required />
+            </div>
+
+            <div class="col-md-12">
+                <label>Message</label>
+                <textarea name="MessageDetail" rows="10" class="form-control" required></textarea>
+            </div>
+
+            <div class="col-md-12 text-center">
+                <button type="submit" class="btn btn-o">Send Message</button>
+            </div>
+
+        </div>
+    </form>
+</div>
              <!-- End Contact Form -->
 
                 </div>
@@ -79,13 +111,6 @@
         <div class="container">
             <div class="copyright text-center ">
                 <p>© <span>Copyright</span> <strong class="px-1 sitename">iPortfolio</strong> <span>All Rights Reserved</span></p>
-            </div>
-            <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you've purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href="https://themewagon.com">ThemeWagon</a>
             </div>
         </div>
 
@@ -111,7 +136,7 @@
 
     <!-- Main JS File -->
     <script src="/port/assets/js/main.js"></script>
-
+   
 </body>
 
 </html>

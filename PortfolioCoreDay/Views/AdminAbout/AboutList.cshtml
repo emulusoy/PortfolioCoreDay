@@ -1,0 +1,56 @@
+﻿@model List<About>
+
+@{
+    ViewData["Title"] = "AboutList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<h1>About List Page</h1>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>AboutId</th>
+            <th>ImageUrl</th>
+            <th>SubTitle</th>
+            <th>Birthday</th>
+            <th>Website</th>
+            <th>Age</th>
+            <th>Degree</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>City</th>
+            <th>FreelanceStatus</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.AboutId</td>
+                <td>
+                    <img src="@item.ImageUrl" alt="Image" width="60" height="60" />
+                </td>
+                <td>@item.SubTitle</td>
+                <td>@item.Birthday</td>
+                <td>@item.Website</td>
+                <td>@item.Age</td>
+                <td>@item.Degree</td>
+                <td>@item.Phone</td>
+                <td>@item.Email</td>
+                <td>@item.City</td>
+                <td>@item.FreelanceStatus</td>
+                <td>
+                    <a href="/AdminAbout/DeleteAbout/@item.AboutId" class="btn btn-outline-dark btn-sm">Delete</a>
+                    <a href="/AdminAbout/UpdateAbout/@item.AboutId" class="btn btn-outline-primary btn-sm">Update</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/AdminAbout/CreateAbout" class="btn btn-outline-info mt-3">Add About</a>

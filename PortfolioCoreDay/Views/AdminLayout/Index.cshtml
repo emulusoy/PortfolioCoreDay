@@ -6,7 +6,6 @@
 <html lang="en">
 @Html.Partial("~/Views/Adminlayout/PartialHead.cshtml")
 <body>
- 
     <div class="wrapper d-flex align-items-stretch">
         <nav id="sidebar">
             
@@ -14,17 +13,11 @@
 
             @Html.Partial("~/Views/Adminlayout/PartialSidebar.cshtml")
 
-           
-
-           
         </nav>
-
-        <!-- Page Content  -->
         <div id="content" class="p-4 p-md-5 pt-5">
            @RenderBody()
         </div>
     </div>
-
     @Html.Partial("~/Views/Adminlayout/PartialScript.cshtml")
 </body>
 </html>

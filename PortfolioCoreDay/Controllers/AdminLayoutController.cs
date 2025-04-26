@@ -8,7 +8,6 @@ namespace PortfolioCoreDay.Controllers
         {
             return View();
         }
-
         public PartialViewResult PartialHead()
         {
             return PartialView();

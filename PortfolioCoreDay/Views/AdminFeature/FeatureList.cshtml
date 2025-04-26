@@ -1,0 +1,34 @@
+﻿@model List<Job>
+@{
+    ViewData["Title"] = "FeatureList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Feature List Page</h1>
+
+<table class="table table-bordered">
+
+    <tr>
+        <td>############</td>
+        <td>Title</td>
+        <td>Edit</td>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.JobId</td>
+            <td>@item.JobsTitle</td>
+            
+
+            <td>
+                <a href="/AdminFeature/DeleteFeature/@item.JobId" class="btn btn-outline-dark">Delete</a>
+                <a href="/AdminFeature/UpdateFeature/@item.JobId" class="btn btn-outline-primary">Update</a>
+            </td>
+
+        </tr>
+    }
+
+</table>
+<a href="/AdminFeature/CreateFeature" class="btn btn-outline-info">Add Feature</a>

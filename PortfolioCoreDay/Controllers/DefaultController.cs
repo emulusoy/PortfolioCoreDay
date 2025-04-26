@@ -10,5 +10,10 @@ namespace PortfolioCoreDay.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult SendMessage()
+        {
+            return View();
+        }
     }
 }

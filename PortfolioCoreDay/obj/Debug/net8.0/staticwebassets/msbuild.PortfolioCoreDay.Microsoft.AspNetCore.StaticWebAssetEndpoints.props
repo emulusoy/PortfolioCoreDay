@@ -2004,16 +2004,16 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3prsEvcHfozCuSIv/MPUZvR5XlC76OpQ6xMNN1avobc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1156"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223prsEvcHfozCuSIv/MPUZvR5XlC76OpQ6xMNN1avobc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 21:40:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PortfolioCoreDay/port/assets/img/hero-bg.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\port\assets\img\hero-bg.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/PortfolioCoreDay/port/assets/img/hero-bg2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\port\assets\img\hero-bg2.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S8fZLf3eoDYAyZcDdyDrPcOwTaTf9OmT/QxqdZk1vCA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"304371"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022S8fZLf3eoDYAyZcDdyDrPcOwTaTf9OmT/QxqdZk1vCA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 21:40:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PortfolioCoreDay/port/assets/img/hero-bg.vbuzv5p8an.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\port\assets\img\hero-bg.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/PortfolioCoreDay/port/assets/img/hero-bg2.vbuzv5p8an.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\port\assets\img\hero-bg2.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vbuzv5p8an"},{"Name":"integrity","Value":"sha256-S8fZLf3eoDYAyZcDdyDrPcOwTaTf9OmT/QxqdZk1vCA="},{"Name":"label","Value":"_content/PortfolioCoreDay/port/assets/img/hero-bg.jpg"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vbuzv5p8an"},{"Name":"integrity","Value":"sha256-S8fZLf3eoDYAyZcDdyDrPcOwTaTf9OmT/QxqdZk1vCA="},{"Name":"label","Value":"_content/PortfolioCoreDay/port/assets/img/hero-bg2.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"304371"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022S8fZLf3eoDYAyZcDdyDrPcOwTaTf9OmT/QxqdZk1vCA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 21:40:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PortfolioCoreDay/port/assets/img/logo.durc1q1hi1.png">

@@ -1,0 +1,18 @@
+﻿@model Job
+
+
+@{
+    ViewData["Title"] = "UpdateFeature";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Update Feature</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="JobId" class="form-control" style="border:dotted 1px" />
+    <label>Update Feature Title</label>
+    <input type="text" asp-for="JobsTitle" class="form-control" style="border:dotted 1px" />
+    <br />
+    <br />
+    <button class="btn btn-dark">Save</button>
+</form>

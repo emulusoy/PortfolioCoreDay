@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using Microsoft.AspNetCore.Mvc;
 using PortfolioCoreDay.Context;
 using PortfolioCoreDay.Entities;
 
@@ -6,28 +7,27 @@ namespace PortfolioCoreDay.Controllers
 {
     public class MessageController : Controller
     {
-        private readonly PortfolioContext _context;
+        PortfolioContext context=new PortfolioContext();
 
-        public MessageController(PortfolioContext context)
-        {
-            _context = context;
-        }
+
 
         [HttpPost]
-        public IActionResult SendMessage(Message message)
+        public async Task<IActionResult> SendMessage(Message message)
         {
             if (ModelState.IsValid)
             {
-                message.SendDate = DateTime.Now;
+                message.SendDate = DateTime.Now;   
                 message.IsRead = false;
 
-                _context.Messages.Add(message);
-                _context.SaveChanges();
-                return Content("Mesajınız başarıyla gönderildi.");
+                context.Messages.Add(message);
+                await context.SaveChangesAsync();
+
+                TempData["Success"] = "Mesaj başarıyla gönderildi.";
+                return RedirectToAction("Index", "Default");
             }
 
-            // Hata durumunda sadece formu yeniden göster.
-            return Content("Mesaj gönderilirken bir hata oluştu.");
+            TempData["Error"] = "Bir hata oluştu.";
+            return RedirectToAction("Index", "Default");
         }
     }
 }

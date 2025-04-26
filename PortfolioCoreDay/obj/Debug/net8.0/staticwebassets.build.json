@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ltfsB083zdc59gSoMbKyhNLSTNkBJKL5zlVLWl+ODu0=",
+  "Hash": "aZDjxs0SzGLem80SJ4L4RCKMwhVfOOwG1DrPs4BY+XA=",
   "Source": "PortfolioCoreDay",
   "BasePath": "_content/PortfolioCoreDay",
   "Mode": "Default",
@@ -3566,12 +3566,12 @@
       "OriginalItemSpec": "wwwroot\\port\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\hero-bg.jpg",
+      "Identity": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\hero-bg2.jpg",
       "SourceId": "PortfolioCoreDay",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\",
       "BasePath": "_content/PortfolioCoreDay",
-      "RelativePath": "port/assets/img/hero-bg#[.{fingerprint}]?.jpg",
+      "RelativePath": "port/assets/img/hero-bg2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3584,7 +3584,7 @@
       "Integrity": "S8fZLf3eoDYAyZcDdyDrPcOwTaTf9OmT/QxqdZk1vCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\port\\assets\\img\\hero-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\port\\assets\\img\\hero-bg2.jpg"
     },
     {
       "Identity": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\logo.png",
@@ -19488,8 +19488,8 @@
       ]
     },
     {
-      "Route": "port/assets/img/hero-bg.jpg",
-      "AssetFile": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\hero-bg.jpg",
+      "Route": "port/assets/img/hero-bg2.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\hero-bg2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19525,8 +19525,8 @@
       ]
     },
     {
-      "Route": "port/assets/img/hero-bg.vbuzv5p8an.jpg",
-      "AssetFile": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\hero-bg.jpg",
+      "Route": "port/assets/img/hero-bg2.vbuzv5p8an.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\wwwroot\\port\\assets\\img\\hero-bg2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19561,7 +19561,7 @@
         },
         {
           "Name": "label",
-          "Value": "port/assets/img/hero-bg.jpg"
+          "Value": "port/assets/img/hero-bg2.jpg"
         },
         {
           "Name": "integrity",

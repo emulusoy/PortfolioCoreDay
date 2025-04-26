@@ -1,0 +1,42 @@
+﻿@model List<Experience>
+
+
+@{
+    ViewData["Title"] = "ExperienceList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<h1>Experience List</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Experience ID</th>
+            <th>Company Name</th>
+            <th>Title</th>
+            <th>Experience Date</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ExperienceID</td>
+                <td>@item.CompanyName</td>
+                <td>@item.Title</td>
+                <td>@item.ExperienceDate</td>
+                <td>@item.Description</td>
+                <td>
+                    <a href="/AdminExperience/UpdateExperience/@item.ExperienceID" class="btn btn-outline-primary">Update</a>
+                    <a href="/AdminExperience/DeleteExperience/@item.ExperienceID" class="btn btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/AdminExperience/CreateExperience/" class="btn btn-outline-info">Add Experience</a>
+

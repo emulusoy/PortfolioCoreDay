@@ -1,0 +1,67 @@
+﻿@model About
+
+@{
+    ViewData["Title"] = "CreateAbout";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<h1>Create About Page</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label>Image URL</label>
+        <input type="text" asp-for="ImageUrl" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Description</label>
+        <input type="text" asp-for="Description" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Sub Title</label>
+        <input type="text" asp-for="SubTitle" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Sub Description</label>
+        <input type="text" asp-for="SubDescription" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Birthday</label>
+        <input type="text" asp-for="Birthday" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Website</label>
+        <input type="text" asp-for="Website" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Age</label>
+        <input type="text" asp-for="Age" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Degree</label>
+        <input type="text" asp-for="Degree" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Phone</label>
+        <input type="text" asp-for="Phone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Email</label>
+        <input type="text" asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>City</label>
+        <input type="text" asp-for="City" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Freelance Status</label>
+        <input type="text" asp-for="FreelanceStatus" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Description Last</label>
+        <input type="text" asp-for="DescriptionLast" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-dark">Add</button>
+</form>
+

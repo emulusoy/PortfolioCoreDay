@@ -25,10 +25,11 @@ ve sadece 6 hizmet gozukecek!                                        OK
 11-Message tablosu ekle dinamik olarak calistir! mesaj gondermeyi
 12-Sweetalert sitesinden mesaj gelince alet mesaji versin!
 
-13-sosyal medya tablosu ekle link title icon url olacak solda listelenecek!
+13-sosyal medya tablosu ekle link title icon url olacak solda        OK
+listelenecek!
 
 --------------admin---------------
 14-Admin panelinde butun islemler dinamik olarak calisacak
 15-404 error ekle yanlis adrese gittiginde!
-16-card title seklinde projelerin gozukmesi!
-17-6 tane daha istatistik ekle
+16-card title seklinde projelerin gozukmesi!                        
+17-6 tane daha istatistik ekle                                       OK

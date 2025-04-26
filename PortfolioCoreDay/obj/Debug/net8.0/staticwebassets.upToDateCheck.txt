@@ -165,7 +165,7 @@ wwwroot\my_1_1\scss\style.scss
 wwwroot\port\assets\css\main.css
 wwwroot\port\assets\img\apple-touch-icon.png
 wwwroot\port\assets\img\favicon.png
-wwwroot\port\assets\img\hero-bg.jpg
+wwwroot\port\assets\img\hero-bg2.jpg
 wwwroot\port\assets\img\logo.png
 wwwroot\port\assets\img\my-profile-img.jpg
 wwwroot\port\assets\img\portfolio\app-1.jpg

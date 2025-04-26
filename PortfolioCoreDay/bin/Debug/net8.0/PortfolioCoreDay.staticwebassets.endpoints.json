@@ -13861,8 +13861,8 @@
       ]
     },
     {
-      "Route": "port/assets/img/hero-bg.jpg",
-      "AssetFile": "port/assets/img/hero-bg.jpg",
+      "Route": "port/assets/img/hero-bg2.jpg",
+      "AssetFile": "port/assets/img/hero-bg2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13898,8 +13898,8 @@
       ]
     },
     {
-      "Route": "port/assets/img/hero-bg.vbuzv5p8an.jpg",
-      "AssetFile": "port/assets/img/hero-bg.jpg",
+      "Route": "port/assets/img/hero-bg2.vbuzv5p8an.jpg",
+      "AssetFile": "port/assets/img/hero-bg2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13938,7 +13938,7 @@
         },
         {
           "Name": "label",
-          "Value": "port/assets/img/hero-bg.jpg"
+          "Value": "port/assets/img/hero-bg2.jpg"
         }
       ]
     },

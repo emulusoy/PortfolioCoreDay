@@ -1,0 +1,27 @@
+﻿@model SocialMedia
+
+@{
+    ViewData["Title"] = "Update Social Media";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Update Social Media Page</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="SocialMediaId" />
+
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="text" asp-for="Title" class="form-control" style="border:dotted 1px" />
+    </div>
+    <div class="form-group">
+        <label for="Icon">Icon (FA Class)</label>
+        <input type="text" asp-for="Icon" class="form-control" style="border:dotted 1px" />
+    </div>
+    <div class="form-group">
+        <label for="Url">URL</label>
+        <input type="text" asp-for="Url" class="form-control" style="border:dotted 1px" />
+    </div>
+
+    <button type="submit" class="btn btn-dark">Update Social Media</button>
+</form>

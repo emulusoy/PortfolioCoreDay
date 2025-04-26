@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\adminmessage\\createmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\adminmessage\\createmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\controllers\\adminmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\controllers\\adminmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\adminmessage\\messagelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\adminmessage\\messagelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,25 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminMessage\\CreateMessage.cshtml",
-              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\AdminMessage\\CreateMessage.cshtml",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminMessage\\CreateMessage.cshtml",
-              "RelativeToolTip": "PortfolioCoreDay\\Views\\AdminMessage\\CreateMessage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T10:11:10.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PartialSidebar.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
               "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
               "RelativeToolTip": "PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-26T08:09:50.299Z",
               "IsPinned": true,
@@ -61,42 +36,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "text.txt",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\text.txt",
               "RelativeDocumentMoniker": "PortfolioCoreDay\\text.txt",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\text.txt",
               "RelativeToolTip": "PortfolioCoreDay\\text.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-26T08:38:28.983Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageList.cshtml",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminMessage\\MessageList.cshtml",
-              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\AdminMessage\\MessageList.cshtml",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminMessage\\MessageList.cshtml",
-              "RelativeToolTip": "PortfolioCoreDay\\Views\\AdminMessage\\MessageList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T10:08:24.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminMessageController.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\AdminMessageController.cs",
-              "RelativeDocumentMoniker": "PortfolioCoreDay\\Controllers\\AdminMessageController.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\AdminMessageController.cs",
-              "RelativeToolTip": "PortfolioCoreDay\\Controllers\\AdminMessageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:06:55.877Z",
               "EditorCaption": ""
             }
           ]

@@ -31,5 +31,5 @@ listelenecek!
 --------------admin---------------
 14-Admin panelinde butun islemler dinamik olarak calisacak           OK
 15-404 error ekle yanlis adrese gittiginde!
-16-card title seklinde projelerin gozukmesi!                        
+16-card title seklinde projelerin gozukmesi!                         OK
 17-6 tane daha istatistik ekle                                       OK

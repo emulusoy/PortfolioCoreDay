@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\controllers\\admincontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\controllers\\admincontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\shared\\components\\_slider\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\shared\\components\\_slider\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\shared\\components\\_sidebar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\shared\\components\\_sidebar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\shared\\components\\_head\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\shared\\components\\_head\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\viewcomponents\\_slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\viewcomponents\\_slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|c:\\users\\emu\\source\\repos\\portfoliocoreday\\portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A49507-2613-4107-B6D7-AAFF44AE6B15}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "PartialSidebar.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
               "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
@@ -31,22 +59,111 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-26T08:09:50.299Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "text.txt",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\text.txt",
               "RelativeDocumentMoniker": "PortfolioCoreDay\\text.txt",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\text.txt",
               "RelativeToolTip": "PortfolioCoreDay\\text.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-26T08:38:28.983Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminContactController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\AdminContactController.cs",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Controllers\\AdminContactController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\AdminContactController.cs",
+              "RelativeToolTip": "PortfolioCoreDay\\Controllers\\AdminContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:28:23.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Shared\\Components\\_Head\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Shared\\Components\\_Head\\Default.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Shared\\Components\\_Head\\Default.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Shared\\Components\\_Head\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:17:03.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Shared\\Components\\_Slider\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Shared\\Components\\_Slider\\Default.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Shared\\Components\\_Slider\\Default.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Shared\\Components\\_Slider\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:16:53.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Shared\\Components\\_Sidebar\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Shared\\Components\\_Sidebar\\Default.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Shared\\Components\\_Sidebar\\Default.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Shared\\Components\\_Sidebar\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:09:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Slider.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\ViewComponents\\_Slider.cs",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\ViewComponents\\_Slider.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\ViewComponents\\_Slider.cs",
+              "RelativeToolTip": "PortfolioCoreDay\\ViewComponents\\_Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:09:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:08:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Entities\\Portfolio.cs",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Entities\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\PortfolioCoreDay\\PortfolioCoreDay\\Entities\\Portfolio.cs",
+              "RelativeToolTip": "PortfolioCoreDay\\Entities\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:11:19.97Z"
             }
           ]
         }
